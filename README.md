@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">TJK</h1>
-<p align="center">클라우드 네이티브 자바 풀스택 개발자를 준비 중인 예비 개발자입니다.</p>
+<p align="center">Hello World! 자바 풀스택 개발자를 준비 중인 예비 개발자입니다.</p>
 
 ---
 
