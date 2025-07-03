@@ -22,6 +22,15 @@
 
 ---
 
+## ✍️ Blog & Records
+
+- [Velog]([https://velog.io/@TJK98](https://velog.io/@wtj1998/posts))
+- [TIL]([https://github.com/TJK98/TIL](https://velog.io/@wtj1998/series/TIL-%EC%98%88%EB%B9%84-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EC%9E%A5%EC%9D%BC%EC%A7%80))
+- [Velog 프로젝트 회고록](https://velog.io/@wtj1998/series/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
+- [GitHub 프로젝트 회고록]()
+
+---
+
 ## ⚙️ Tech Stack
 
 **Backend:**  
@@ -55,11 +64,3 @@
 [![TJK98's github chart](https://ghchart.rshah.org/TJK98)](https://github.com/TJK98)
 
 ---
-
-## ✍️ Blog & Records
-
-- [Velog](https://velog.io/@TJK98)
-- [TIL Repository](https://github.com/TJK98/TIL)
-
----
-
